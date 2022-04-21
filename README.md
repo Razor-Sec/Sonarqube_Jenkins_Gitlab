@@ -92,7 +92,7 @@ sonarqube-check:
 
 #### Configure server base url sonarqube
 Going to Administration > Configuration > General > Server base URL
-![[img12.png]]
+![](img12.png)
 
 #### create quality gate for making pipeline failed 
 ![](img10.png)
