@@ -201,9 +201,9 @@ Checking in sonarqube (Project > name your project > select branch name  ) : ![]
 - First we need to edit code , Go to Gitlab > Repository > edit file  ![](img26.png)
 - Then Commit and Go to Gitlab > Project > Merge Requests > New Merge Requests branch develop to master 
 - Status Jenkins : ![](img28.png)
-- Quality Gate in Merge Requests : ![[img29.png]]
+- Quality Gate in Merge Requests : ![](img29.png)
 
 #### Merge will be blocked because pipeline must be succeed : 
-![[img30.png]]
+![](img30.png)
 
 # DONE :D
